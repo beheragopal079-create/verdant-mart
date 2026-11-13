@@ -1,0 +1,8 @@
+{
+  "name": "VERDANT MARKET",
+  "description": "Freshness, thoughtfully delivered. An editorial gourmet supermarket offering farm-direct produce, artisan dairy, freshly baked sourdough, and pantry essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
